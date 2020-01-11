@@ -24,9 +24,13 @@ us to a new digital era of keyless locking!
 
 # Tools Required
 •	Arduino UNO
+
 •	Fingerprint sensor module
+
 •	0.96 inch OLED display
+
 •	Breadboard
+
 •	Jumper wires
 
 # Role of Group Member’s individually
